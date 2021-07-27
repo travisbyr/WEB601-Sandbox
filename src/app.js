@@ -1,5 +1,5 @@
 //   Name: Fake notepad
-// Branch: FNP
+// Branch: fnp
 
 //   Name:
 // Branch:
