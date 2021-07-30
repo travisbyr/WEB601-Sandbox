@@ -1,6 +1,7 @@
 # Node.js keywords explained
 
 process.pid - Returns the process ID
+\n
 process.argv - Returns array of command line arguments
 process.env - Returns an object containing the user environment
 process.platform - Returns a string of the operating system platform
